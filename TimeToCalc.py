@@ -5,7 +5,7 @@ import math
 import sys
 
 root = Tk() 
-root.title("Время считать !")
+root.title("TimeToCalc!")
 bttn_list = [
 "7", "8", "9", "+", "*", 
 "4", "5", "6", "-", "/",
